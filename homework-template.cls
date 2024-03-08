@@ -5,6 +5,7 @@
 % Packages
 \RequirePackage[dvipsnames]{xcolor}
 \RequirePackage{amsmath}
+\RequirePackage{amsthm}
 \RequirePackage{amsfonts}
 \RequirePackage[most]{tcolorbox}
 \RequirePackage{fancyhdr}
