@@ -9,6 +9,7 @@
 \RequirePackage{amsfonts}
 \RequirePackage[most]{tcolorbox}
 \RequirePackage{fancyhdr}
+\RequrePackage{enumerate}
 
 % Pagestyle
 \title{Untitled}
